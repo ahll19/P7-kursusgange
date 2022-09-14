@@ -130,7 +130,5 @@ dmypy.json
 
 # custom
 .icloud
-data**/**
-Data**/**
-**data/**
-**Data/**
+data/
+Data/
