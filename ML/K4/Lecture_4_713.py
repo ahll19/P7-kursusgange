@@ -10,6 +10,8 @@
 #                   to identify numbers from the MNIST dataset
 # ###################################
 
+# feedback:
+# few mistakes, typo when loading training data, you actually loaded the test data, you do not remove the mean of the training data before computing the covariance, when projecting the test data, you substract the mean of test data, which in real world you would not have acess to, it seems like you know what to do just made a few mistakes
 # %%
 import numpy as np
 from scipy.stats import multivariate_normal as mn
