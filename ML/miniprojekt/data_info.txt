@@ -1,0 +1,3 @@
+dat1: jakob
+dat2: https://data.world/cdc/selected-trend-table-health
+dat3: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
